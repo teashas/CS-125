@@ -1,7 +1,7 @@
 /*******************************************************************************
 *  Saima Teasha
 *  CS125
-*  program HW4
+*  program HW5
 *
 *  Ask the user to enter a line of text and then read it in one character at 
 *  a time. For each character, print the character as a character, its hex 
@@ -92,4 +92,3 @@ void analyzeChar(char c) {
     bits = printBinary(c);
     printParity(bits);
 }
-
