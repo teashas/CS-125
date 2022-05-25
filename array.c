@@ -1,3 +1,15 @@
+/*******************************************************************************
+*  Saima Teasha
+*  CS125
+*  program HW7
+*
+*  a program that declares an array of 100 doubles and then fills it with 75 
+*  random doubles between 40.0 and 60.0(from 40.0 up to butnot including 60.0)
+*  in value. Print out the values in the array then printout the largest 
+*  value, the smallest value, the average value and the standard deviation 
+*  of the set of 75 values.
+*******************************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
