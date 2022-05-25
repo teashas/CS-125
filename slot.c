@@ -1,3 +1,15 @@
+/*******************************************************************************
+*  Saima Teasha
+*  CS125
+*  program HW4
+*
+*  The project in this assignmentis to build a text-only(pseudo-video)
+*  slot machine. Each wheel has a set of pictures painted on the outside. 
+*  During play, each wheel spins independently and comes to stop with one 
+*  of its pictures showing in a window. The player wins if all three images 
+*  are the same.
+*******************************************************************************/
+
 #include <stdio.h>
 #include <stdlib.h>
 
