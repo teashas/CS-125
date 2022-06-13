@@ -11,11 +11,8 @@ int main() {
     int y = 0;
     int z = 0;
     
-    printXYZ(x, y, z);
     enterXYZ(&x, &y, &z);
-    printXYZ(x, y, z);
     xyzAscending(&x, &y, &z);
-    printXYZ(x, y, z);
     
     return 0;
 }
